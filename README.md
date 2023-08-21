@@ -23,5 +23,5 @@ This project relies on the following libraries:
 - `tkinter` for creating the graphical user interface
 
 ![Screenshot (102)](https://github.com/Poo4303/Currency_Converter/assets/113706525/f6c92607-d360-41c1-aa01-813bafd7b3ad)
-![Uploading Screenshot (101).png…]()
+![Screenshot (101)](https://github.com/Poo4303/Currency_Converter/assets/113706525/24ec6bbf-09de-4b1e-8266-56e4d7d83c38)
 
